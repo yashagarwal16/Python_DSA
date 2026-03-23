@@ -9,7 +9,7 @@ This repository contains a collection of Python tutorials explained in **Hindi**
 - ✅ Python Basics (variables, data types, loops, conditionals)
 - ✅ Functions and Modules
 - ✅ Object-Oriented Programming
-- ✅ File Handling
+- ✅ File Handling.
 - ✅ Exception Handling
 - ✅ Libraries like NumPy and Pandas
 - ✅ Real-world mini projects
