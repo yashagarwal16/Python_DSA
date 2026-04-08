@@ -13,6 +13,8 @@ This repository contains a collection of Python tutorials explained in **Hindi**
 - ✅ Exception Handling
 - ✅ Libraries like NumPy and Pandas
 - ✅ Real-world mini projects
+- ✅ add dsa project also
+- 
 
 ---
 
